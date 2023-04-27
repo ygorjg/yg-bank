@@ -1,4 +1,4 @@
-Aplicação full-stack desenvolvida em React e TypeScript um banco digital fictício.
+Aplicação full-stack desenvolvida em React e TypeScript para um banco digital fictício.
 
 Nela o usuário é capaz de criar uma conta, fazer login e acessar a dashboard que ainda está em construção, onde será possível fazer transações para outros usuários, visualizar as transações efetuadas, entre outras funcionalidades.
 
